@@ -2,7 +2,7 @@
 
 Just going through a [Ruby on Rails tutorial](https://www.railstutorial.org/book/toy_app) by [Michael Hartl](http://www.michaelhartl.com/) on [Cloud 9](https://c9.io)
 
-[Output might be visible here](https://rails-tutorial-thunderrabbit.c9users.io/)
+Output might be visible on [Heroku](https://shielded-plateau-97696.herokuapp.com/)
 
 # README
 
